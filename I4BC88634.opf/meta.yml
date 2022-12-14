@@ -1,0 +1,26 @@
+id: I4BC88634
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 15:20:14.906718+00:00
+last_modified: 2022-12-14 15:20:14.906724+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-060-003
+  eft-text-version: 1.1.9 2020
+  title: Toh_174-The_Inquiry_of_Lokadhara-v2
+bases:
+  DCCC:
+    source_metadata: null
+    order: 1
+    base_file: DCCC.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
